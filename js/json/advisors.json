@@ -1,0 +1,91 @@
+[
+
+    {
+        "id": 1,
+        "name": "Brian Min",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "阿默斯特学院",
+        "introduction":"",
+        "story":"Brian Min is currently a sophomore at Amherst College. He is a Cum Laude graduate from Choate Rosemary Hall in Wallingford, Connecticut and a National Merit Scholar. In his time at Choate, he led numerous volunteer efforts, such as a music teaching program for children at a Latino community for which he served as a co-president. His volunteer work has led him to diverse places such as Sonoyta, Mexico and Mongolian refuges in Seoul, South Korea. His interests also extend to human rights and activism, as he helped to found a Liberty in North Korea (LiNK) branch at Choate. <br> In the summer of 2013, he completed an internship at the National Assembly in Korea, working under Assemblyman Lee Kang Hoo. He spent extensive time at the National Library of Korea, doing research on human rights conditions in North Korea. These experiences have given him a strong interest in international relations.<br>Brian is a strong believer in the impact of music in community service. His time organizing for his music teaching program and performing his viola for homeless shelters and church congregations showed him the power of music to touch people’s lives and bring people of different walks of life and tongues together.<br>Brian is fluent in Korean, English, and Spanish. He has taken a semester of Chinese and hopes to continue throughout college.",
+        "motto":""
+    },
+
+    {
+        "id": 2,
+        "name": "Imani Lee Ivery",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "加州大学洛杉矶分校"
+    },
+
+    {
+        "id": 4,
+        "name": "Fei Sun",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "杜克大学生物博士"
+    }, 
+    
+    {
+        "id": 5,
+        "name": "Hajin Lily Yee",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "加州大学洛杉矶分校",
+        "introduction":"Lily Yi is a third year sociology and statistics student at UCLA with a focused interest in creating a more equitable and socially conscious future.",
+        "story": "Lily is a third year sociology and statistics student with a focused interest in creating a more equitable and socially conscious future. The sum of my experience of growing up in South Korea, being raised in Berkeley, and attending UCLA has shaped my value and appreciation for diversity, inclusion, and social justice. <br>I have experience in writing, outreach and communications in both the non-profit and the private sector. My involvement as the Marketing Consultant for Edubase, Social Media and Content Creation Intern for Korea Daily, and translating intern with Poiema have equipped me with strong written, verbal, and oral communication skills. My primary leadership experience comes from serving as the Diversity Affairs Officer of student government.<br>I am a quick learner and a mission-driven individual with an aptitude towards expression. I enjoy expressing myself through movement to the music. So I channel my free spirited energy through a wide variety of dance styles including modern, West African, Zumba, hula, ballet, and hip hop. I enjoy writing, filming, and editing videos to promote critical consumption of media through my YouTube channel. Playing and teaching the violin is another means through which I express myself musically.<br>In the future, I aspire to establish a career in the field of corporate social responsibility (CSR). Not only am I drawn to the skills, work environment, and types of people associated with the field, but the idea of leveraging the financial resources and the human capital of the private sector for positive social impact also aligns perfectly with my values. I am passionate, because this would be the perfect opportunity for me to apply the skills I have developed at UCLA, including my ability to think critically, communicate clearly and understand diverse groups of people for a meaningful purpose.",
+        "motto":"Where there is a will, there is a way."
+    },
+
+    {
+        "id": 6,
+        "name": "Sheren Hotama",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "加州伯克利大学毕业"
+    }, {
+        "id": 7,
+        "name": "Laura Fitch",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "哥伦比亚大学毕业",
+        "introduction":"",
+        "story":"As a recent graduate of Barnard College of Columbia University, I look forward toworking as an advisor with Yeah Education to empower students and help them produce strong application essays. Throughout my undergraduate career, I gained extensive experience with both journalistic and scientific writing. As a double major in Political Science and Environmental Biology, my interest in sustainable development and nutrition led to a fascination with agricultural research. During my time as a research intern, I was involved in projects ranging from rice genome mapping to environmental impact analyses, all of which required me to write like a scientist – succinctly and purposefully. Outside of the laboratory, I was heavily involved with Columbia’s student newspaper, the Spectator, editing online content and working to grow their online presence. I also served as a writer for the Earth Institute’s State of the Planet blog, researching and creating content related to climate science news. Ultimately however, it was my involvement as a tutor with the America Reads program that showed me the value of working with students to better their language skills. Today, I am thrilled to have the chance to put my experience to work, and help international students put their best foot forward to ace the college admissions process.",
+        "motto":""
+    }, 
+    
+    {
+        "id": 9,
+        "name": "Weston Hustace",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "加州大学圣塔克鲁兹分校"
+    },
+
+    {
+        "id": 10,
+        "name": "Adriane Stoia",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "加州伯克利大学",
+        "introduction":"I can help you find the right words to introduce yourself to the college of your dreams. ",
+        "story":"Adriane is a former Diablo Valley College student currently majoring in English and Asian Studies at the University of California, Berkeley. Her interest in Asian culture led her to China in 2010 where she taught English as a second language for a semester at Ba Zhong High School in Hunan and shortly after taught for a year at Hunan University of Science and Engineering. Since returning home to California to continue her studies, Adriane has worked part time as a Registered Behavioral Technician for children who have Autism. With more than five years experience tutoring students one-on-one as well as leading classrooms of more than 30 students, Adriane has developed an effective teaching method to help students achieve academic success. In the future, she plans to pursue her passion for education as an English Literature Professor.",
+        "motto":"What lies before us and what lies behind us are small matters compared to what lies within us. And when you bring what is within out into the world, miracles happen. -Henry Davis Thoreau "
+    }, {
+        "id": 11,
+        "name": "Grace Lee",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "JP Morgan Summer Analyst"
+    }, {
+        "id": 12,
+        "name": "Nabil Hamade",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "JP Morgan Summer Analyst"
+    }, {
+        "id": 13,
+        "name": "Sammy Tong",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "NBC Summer Intern",
+        "introduction":"You're most vulnerable to those that become your close friend; you're also most honest to them. My mentorship will establish us as friends before mentors, so that together, we can find the best story for you to share. ",
+        "story":"Sammy is a third-culture kid from Hong Kong, Canada, and Maryland. Growing up, she has had a passion for international studies; hence, she has studied abroad for Spring 2016 in Sweden. This opened up her eyes to even more diverse people and cultures. Currently, she is a rising senior at University of California, Berkeley where she studies Business Administration. Last summer, she was at CBS Interactive as a Marketing intern, and this summer, she will be at Deloitte. Sammy loves hearing about people’s stories and guiding them whenever she can; hence she came upon this opportunity. As a Haas Business School Application Mentor, she has helped 23 students get admitted into Haas. She is also working at Berkeley International Office as a mentor, helping over 30 students with their applications. Sammy said that she is fascinated by the different upbringings of each individual and how it shaped them into who they are today. In her spare time, Sammy enjoys baking, blogging, travelling, and hanging with friends. She even has a blog: bitesizetravel.weebly.com because she wanted to also record her own experiences to share with the world",
+        "motto":"Nothing is too much trouble if it turns out the way it should- Julia Child"
+    }, {
+        "id": 14,
+        "name": "Stanley Liu",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "background": "英属哥伦比亚金融硕士"
+    }
+]

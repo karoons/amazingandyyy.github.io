@@ -1,0 +1,238 @@
+[
+
+    {
+        "id": 0,
+        "name": "Kevin Tian",
+        "imageLink": "css/images/team/members/kevin-tian-profile-img.png",
+        "title": "Founder&CEO",
+        "introduction":"UC Berkeley哈斯商学院<br>教育行业工作经验逾八年，曾帮助300+学生完成申请<br>现就职于 UCB Transfer Center 和 Admission Office<br>DVC首位华人学生总统加州学生议会议员,课本免税决议草案起草人<br>曾获经济学人、世界日报报道",
+        "story": "Kevin現就讀于全美排名第二的伯克利哈斯商學院，主攻金融及數學專業，并擔任Haas青年企業家項目的導師。近8年來，在招生辦公室、轉學中心及數家留學企業的工作中，曾幫助超過300名學生完成申請，走入名校。他于2013年作為加州學生議會議員，起草并發表課本免稅法草案。2014年獲得加州商業案例競賽的亞軍。<br>作為中國第一批獲得世界中學生模擬聯合國大會最佳代表的華人，Kevin從高中時代便對教育行業產生了濃厚的興趣。他曾先後主辦或協辦GLMUNC, EMUNC, IMUNC, BJMUNC等地區、全國乃至國際會議，并擔任主席。2011年作為NHSDLC的創始團隊成員迅速在北京、天津等城市舉辦了中國首批美式辯論巡迴賽，而後帶領第一批學生闖入了斯坦福決賽，并獲得經濟學人和世界日報等媒體的報道。<br>此外，Kevin還是一個狂熱的音樂控、技術控、和旅遊控。他有著19年的鋼琴演奏和作曲經驗，給CCAV做過碼農，獨自上過天、下過海、穿過沙漠、踏過高原，目標讀一卷書，行萬里路。",
+        "motto": "1. 世界上本不存在完美，但是我們生存的目的便是不斷追求完美的彼岸。<br>2. 別人笑我太瘋癲，我笑他人看不穿。<br>3. stay hungry, stay foolish."
+    },
+
+    {
+        "id": 1,
+        "name": "Tony Sun",
+        "imageLink": "css/images/team/members/default-profile.png",
+        "title": "COO",
+        "introduction":"UC Berkeley 经济、心理双专业<br>曾在UC Berkeley开班授课<br>伯克利中国论坛创始人<br>原伯克利中国学生学者联谊会主席",
+        "story": "Tony 于2014年毕业于加州大学伯克利分校。主修经济学和心理学。曾任伯克利中国学生学者联谊会主席。在校期间曾创办西海岸最大的中国主题论坛，伯克利中国论坛，成为湾区华人企业家、中国问题研究专家、学生交流合作的平台。Tony对于教育的热情开始于2005年央视的一部中国教育现状的纪录片。教育经历包括：在伯克利就读期间，曾在戏剧表演及舞蹈系创立一门课程，教授入门武术；并于2014年夏天在尼泊尔担任义工，深入了解当地的教育情况。",
+        "motto": "知而不行，只是未知。"
+    },
+    
+    {
+        "id": 2,
+        "name": "Andy Chen",
+        "imageLink": "css/images/team/members/andy-chen-profile-img.png",
+        "title": "CTO",
+        "introduction":"欧耶网页及品牌设计<br>完美主义者及使用者行为痴谜研究者<br>立志打造合理、性感、优雅的产品",
+        "story": "硅谷使用者经验研究社成员<br>三个月年内夺得四座硅谷黑客松奖项<br>十八岁创办台湾首个跨平台公益整合平台-微乐志工平台<br>曾担任台湾最大跨校性学生公益组织-笑拥青年联盟品牌总监<br>第十届台湾地理奥林匹亚金牌得主",
+        "motto":"It's very easy to be different, but very difficult to be better. - Jonathan Ive.<br> Simple is better."
+    },
+    
+    {
+        "id": 3,
+        "name": "Shinzu Jona",
+        "imageLink": "css/images/team/members/shinzu-jona-profile-img.png",
+        "title": "CAO",
+        "introduction":"美国 Discover 金融公司市场推广<br>伯克利哈斯商学院<br>加州商学案例竞赛第一名<br>精通五门语言",
+        "story": "美国 Discover 金融公司市场推广<br>伯克利哈斯商学院<br>加州商学案例竞赛第一名<br>精通五门语言"
+    },
+    
+    {
+        "id": 4,
+        "name": "Shutian Zheng",
+        "imageLink": "css/images/team/members/default-profile.png",
+        "title": "Founder&CEO",
+        "introduction":"CAO",
+        "story": "伯克利大学毕业<br>雅培美国金融分析师"
+    },
+    
+    {
+        "id": 5,
+        "name": "Allen Chen",
+        "imageLink": "css/images/team/members/default-profile.png",
+        "title": "Angel Investor",
+        "introduction":"UC San Diego",
+        "story": "UC San Diego"
+    },
+    
+    {
+        "id": 6,
+        "name": "Jason Zhang",
+        "imageLink": "css/images/team/members/jason-zhang-profile-img.png",
+        "title": "CPO",
+        "introduction":"职业培训",
+        "story": "张蓝夫现在于哥伦比亚大学即将完成经济学学士学历，同时工作于一家总部于纽约市的私募股权投资公司专精于医疗保健行业的杠杆收购。<br>在去纽约开始哥伦比亚大学之前，他在加利福尼亚州柏克莱市学习并被哈斯商学院召入2016届毕业生。<br> 在大学生活里，他专心于参加校内校外的活动以及学生俱乐部，曾做过宿舍常驻顾问（Resident Assistant）帮助大学新生适应大学校园繁忙的生活，辅助新生找到需要的资源。在学习和工作的同时，他全心地主导欧耶教育的职业培训专项和锻炼滑雪以及摩托赛车。 ",
+        "motto": "stay hungry, stay foolish"
+    },
+    
+    {
+        "id": 7,
+        "name": "Xiaoxue Wu",
+        "imageLink": "css/images/team/members/xiaoxue-wu-profile-img.png",
+        "title": "Campus Director",
+        "introduction":"现就读于Diablo Valley College， Business 专业。<br>原中国传媒大学电视台及新闻学院院刊记者。<br>现任DVC中华学生会公关部部长。",
+        "story": "高中就读于深圳育才中学，在2011年创建Jazz社团，并带领社团成员参加公益表演和各大校园园游会。大学曾就读于中国传媒大学新闻专业，就读期间担任新闻学院院刊《新闻视野》生活板块记者和中传电视台《中传新闻》新闻栏目记者。热爱采访工作，曾采访中国人民日报主编李智勇，复古市集创始人赵菲等。现就读于Diablo Valley College，学习Business专业，担任中华学生会CSA公关部部长。她从小就认识到教育的重要性，并且热爱欧耶的教育事业，相信教育的力量是不可估量的。",
+        "motto":"1.人生就像一场旅行。<br>2.If she's amazing, she won't be easy. If she's easy, she won't be amazing. <br>If she's worth it, you wont give up. If you give up, you're not worthy.<br>3.永远拥有一颗好奇的心。"
+    },
+    
+    {
+        "id": 8,
+        "name": "Weihao Zhou",
+        "imageLink": "css/images/team/members/weihao-zhou-profile-img.png",
+        "title": "Director of Marketing & Promotion",
+        "introduction":"现就读于Diablo Valley College, Environmental<be>Economics&Policy专业 <br>GarMar交易区创始人。<br>华泰证券实习证券分析师。<br>DVC学生政府审计及经费小组成员，中华学生会财务部部长<br>投资社团金融组组长，联合国儿童基金会副主席，<br>应用数学社团副主席，中文系助教。<br>对于在美校园生活和转学流程有着深入的了解。",
+        "story": "Peter高中就读于深圳市耀华实验学校。高中时凭爱好创立了目前活跃粉丝17000+的GarMar交易区。同时作为nonprofit organization梦想大凉山的早期成员之一，积极关注着四川大凉山彝族孩子们的教育及伙食问题。到当地支教的经历让我们深深地意识到了教育资源的均等分配对孩子们的重要性。高三时独自完成来美申请流程，环境经济专业。在校时积极参与学校的学生政府，管理着学校每年$200k的活动经费，审批了60+项活动资金要求。大一暑假曾在华泰证券实习，大二同时供职于学校的中华学生会（财务部部长），投资社团（金融组组长），联合国儿童基金会（副主席），应用数学社团（副主席），中文系（助教）。对于在美校园生活和转学流程有着深入的了解，希望结合自己的亲身经历来帮助未来的学弟学妹少走弯路。",
+        "motto":"1. 有人爱，有事做，有所期待。<br>2. One way up, no way out."
+    },
+    
+    {
+        "id": 9,
+        "name": "Linus Lin",
+        "imageLink": "css/images/team/advisors/linus-lin-profile-img.png",
+        "title": "Education Consultant",
+        "introduction":"现就读于Diablo Valley College， Business专业<br>UC Berkeley 哈斯商学院青少年项目导师<br>原DVC学生政府Director of Public Relations<br>DVC中华学生会公关部部长<br>亲历社区大学转学申请，熟悉转学流程,了解各专业转学要求",
+        "story": "Linus毕业于广州市执信中学，现就读于Diablo Valley College，商科专业。在DVC期间，曾任全校学生政府Director of Public Realtions, 为全校20,000个学生争取权益，运用所学知识扩大学生政府名声。此外，还曾任中华学生会公关部部长，与学校周边商家联系，成功组织大型留学生节日聚会，成功获得量子通讯公司赞助。课余生活，担任 Berkeley Haas青年企业家项目导师，帮助有business兴趣的高中生拓展爱好，发掘潜力，并密切了解伯克利哈斯商学院转学过程还有学院文化风气，对伯克利有深入的了解。同时，Linus积极与社区联系，独立联系Pleasant Hill图书馆志愿者服务，带领三位同学担任义工，了解美国当地文化。在社区大学的一年半里，深切感受到了国际学生从一无所知到对转学了如指掌的不易，这也是我希望能到在教育机构帮助到以后的学生的动力。",
+        "motto":"有梦不死，天助自助者。"
+    },
+    
+    {
+        "id": 10,
+        "name": "Yuxiang Hu",
+        "imageLink": "css/images/team/members/yuxiang-hu-profile-img.png",
+        "title": "Partnership Manager",
+        "introduction":"现就读于Diablo Valley College，Economic 专业<br>DVC美国红十字协会Secretary<br>拥有长达6年志工经历<br>DVC数据科学社团创建人之一<br>独特的异国成长经历",
+        "story": "十二岁时跟随父母去到博茨瓦纳，在这个南部非洲的小国家完成了小学，初中，高中教育，现就读于Diablo Valley College，主修Economic专业。<br>博茨瓦纳在非洲虽然不算不发达国家，但与世界其他国家相比还是落后很多。在博茨瓦纳生活的七年里除了校园生活我更喜欢参加各种志工活动。在非洲的七年里比别人更懂得了教育的重要性，所以致力于改善非洲儿童的教育水平以及维护女性权利。在博茨瓦纳SOS儿童村成为了一名长期的志工，教孩子念书写字，捐献各类必需品。参与举办博茨瓦纳华人慈善拍卖会，拍卖所得善款全部捐予博茨瓦纳儿童村。<br>在DVC第一年与朋友一起创建了Data Science社团，在担任icc期间成功的拓展了这个还很年轻的社团。因在pleasant hill捐血站做志工随后担任DVC红十字社团秘书至今，致力于丰富同学们的志愿者活动，在任期间成功举办中秋月饼义卖，所得捐款600多美金全部捐献给国际红十字紧急救援中心",
+        "motto":"既然选择了远方 便只顾风雨兼程"
+        
+    },
+    
+    {
+        "id": 11,
+        "name": "Meishan Fan",
+        "imageLink": "css/images/team/members/meishan-fan-profile-img.png",
+        "title": "Director of Product",
+        "introduction":"加州大學伯克利分校數學統計專業<br>曾就職於戴波罗谷社区大学的语言中心<br>幫助了500多名學生完成留學申請<br>豐富的志願者工作管理經驗<br>戴波罗谷社区大学的中文助教<br>加州大學伯克利分校廣東話課程的導師",
+        "story": "Meishan現就讀於加州大學伯克利分校，數學統計專業。<br>曾就職于International Education Center at Diablo Valley College。<br>在有限的一年時間內，幫助了多達500名來自世界各地的學生完成留學申請。<br>此外，Meishan有著豐富的志願者工作管理經驗，耐心幫助每一位留學生尋找志願者工作機會。豐富他們的社會經驗，有效地提高他們的實踐能力，并帶領他們一同深入探討美國的多樣文化。<br>与此同时，Meishan非常熱衷於教學。曾擔任Diablo Valley College的中文助教，同時耐心輔導DVC所提供的四個不同等級的中文課程的學生，幫助中文學習者提高其中文水平。以及現擔任UC Berkeley廣東話課程的Instructor。",
+        "motto":"有志者，事竟成。"
+    },
+
+    
+    {
+        "id": 12,
+        "name": "Ziyun Huangfu",
+        "imageLink": "css/images/team/members/meishan-fan-profile-img.png",
+        "title": "Content Manager",
+        "introduction":"就读于Diablo Valley College，数学统计专业<br>DVC数学辅导、中文助教 <br>DVC中华学生会策划部部长<br>原DVC学生政府成员、环境委员会学生代表<br>Berkeley Symphony志愿者",
+        "story": "Ziyun现就读于Diablo Valley College，数学统计专业。拥有自主完成来美留学申请及校园求职的经历。现在DVC担任数学辅导、中文助教，热心地为来自各国的学生解答课业上的疑惑。并担任DVC中华学生会策划部部长，在组织策划各类大型活动的同时也为广大中国留学生提供有关学术、生活以及转学申请的资讯。<br>课余生活中，Ziyun也热衷于参与环保公益类项目。在DVC，曾作为学生代表参与DVC环境委员会会议，并讨论筹备世界环境日活动。也曾作为深圳市中学生“绿色星火”环保联盟主席，联合深圳十二所知名高中，在大型社区举办“地球一小时”活动，受到了广泛关注和报道。",
+        "motto":"与其让世界装住你的心，不如用心来包容整个世界。"
+        
+    },
+
+     {
+        "id": 12,
+        "name": "Weihao Xia",
+        "imageLink": "css/images/team/advisors/weihao-xia-profile-img.png",
+        "title": "Education Consultant",
+        "introduction":" 现就读于Diablo Valley College, Business专业<br>原UC Berkeley Lawerance Hall of Science 的工程师<br>现DVC学生政府主席<br>加州范围内推广宪法AB.798帮助学生获得更加低廉的书本费",
+        "story": "高中时期曾一手创建FBLA-PBL，邀请到谷歌眼镜产品开发CEO，被Contra Costa times评为潜力股。<br>曾经在UC Berkeley Lawerance Hall 做工程开发，代表性作品有在2015春季maker fair的'mole of whack'，同时也开创了第一个属于纯手工（cardboard+copper wire）的“电玩”世界。曾经在Fry's electronics做过sales assiocate, 并在一周内卖出价值七万美刀的电子产品。曾经在local business做marketing manager，在1年内把revenue提升1300%（通过制作网站，收集target audiences等）。<br>自导自创Non-Profit organization 'Suituplistings' 以及wesloft 网络平台。<br>大学期间，当选学生政府主席，代表22000个学生。当选United Faculty Intern，代表全加州社区大学教授提交草案给Susan Bonilla。创建DVC有史以来第一个Business Conference。帮助YEAH EDUCATION 主持并推广了2015 fall 最大型的转学workshop。加州商业竞赛 Business Decision making 3rd place.(2015 春季)帮助DVC获得了全加州排名第八的acceditdation 排名。",
+        "motto":"Ambition can creep as well as soar."
+        
+    },
+
+    {
+        "id": 13,
+        "name": "Zhuoxian Yang",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "Campus Director",
+        "introduction":"就读于Diablo Valley College，数学统计专业<br>DVC中华学生会副主席<br>DVC应用数学社副主席<br>曾任DVC数学辅导，DVC学生政府成员。",
+        "story":"Jason高中就读于惠州市第一中学。移民美国后毕业于三藩市林肯高中。现就读于Diablo Valley College, 数学统计专业，在校内担任中华学生会副主席，数学社团副主席，数学辅导员，多次参与组织中国留学生课外活动与校内竞赛。致力与丰富留学生的课外活动。大二期间曾在保险公司实习并参与统计数据研发金融房产理赔项目。培养了谨慎严密的逻辑思维。对于在美高中生和转学生申请与校园生活有深入了解，能充分提供合适建议。希望能帮助更多的在美留学生。",
+        "motto":"运，成功者的谦虚词；命，失败者的借口；<br>若有恒，何必三更眠五更起；<br>最无益，莫过一日曝十日寒；"
+        
+    },
+    
+    {
+        "id": 14,
+        "name": "Shuai Shao",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "Education Consultant",
+        "introduction":"产品销售及咨询",
+        "story": "毕业于山东省实验中学及加州 Chico Senior High School<br>曾获得七所top50高校录取通知，及九万美金奖学金<br>光明《留学》杂志记者<br>中联百文写手",
+        "motto":"小时候总听大人说自己是聪明的，长大后才发现这世上聪明的人实在太多。 <br>你脚踩的煎熬是天堂的倒影，我唇角的故事也只是时间的灰烬，芸芸众生，不一样的名字写了同样的故事。 <br>如果谁都是可以被替代的那是否只有思想证明你存在过。又怎样能证明你的思想存在过。 <br>三生杜牧，十里扬州，前世休说。"
+        
+    },
+    {
+        "id": 15,
+        "name": "Paul Shih",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "Education Consultant",
+        "introduction":"就讀於Diablo Valley College Economics 专业<br>UC Berkeley 哈斯商学院青少年项目导师<br>DVC 金融社 副主席",
+        "story": "Paul 在国内高中时期, 积极参与各类志愿者活动. 其中身为法律传播队的一员, 又为其之策划者。<br>Paul 深入偏乡教导经济弱势的孩子们基本法律常识。在过程中, 孩子们勤学的学习态度感动了。Paul, 也因此让他下定决心 “只要有能力 就要为社会付出” <br>此外, Paul 更在国立故宫博物院 身为其中、英文志愿导览者。在 Paul 与各国宾客的互动中, 他了解到各国文化之差异，也意识到提身自我国际观的重要性。<br>在Diablo Valley College 学习期间 Paul 身为学校金融社之副主席，也同时兼任社团之公关。他多次成功得与地方企业合作举办联合募款活动。此外，他也邀请许多企业家至校园分享公司成功秘诀。Paul 希望用它乐此不比助人的心和在美国求学的经验，来帮助即将筑梦的莘莘学子！",
+        "motto":"你不踏上旅程，永遠不知道前方等著的會是什麼<br>旅行最大的收穫，就是在陌生的風景中，找到了全新的自己。 <br>Walk your own path and chase your own dreams. Never mock, complain or envy, and your life is considered perfect."
+        
+    },
+    {
+        "id": 16,
+        "name": "Dawei Feng",
+        "title": "Engineer",
+        "introduction":"现就读于Diablo Valley College<br> Electrical Engineering & Computer Science专业 <br>DVC中华学生会宣传部部长<br>DVC应用数学社技术顾问<br>担任DVC中文Tutor和EOPS Tutor",
+        "story": "一位专注于代码的极客<br>David毕业于广东省中山纪念中学 。<br>曾经参加过全国领导力大赛，编程比赛，视频制作比赛，摄影比赛，数学竞赛，并取得优异成绩。<br>现就读于Diablo Valley College，专攻Electrical Eningeering&Computer Science 方向，同时自学网页设计和开发。<br>David在空闲时间喜欢到野外摄影，想要用自己的镜头，自己的方式记录这个地球上每一处风景",
+        "motto":"在雨中奔跑，别人就看不到你脸上的泪水了<br>可是，为什么在意别人是否看到呢?"
+        
+    },
+    {
+        "id": 17,
+        "name": "Hongming Luo",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "Engineer",
+        "introduction":"产品开发，线上视频",
+        "story": "无",
+        "motto":"无"
+        
+    },
+    {
+        "id": 18,
+        "name": "Xihao Wang",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "Campus Director",
+        "introduction":"校园大使",
+        "story": "CPA认证，国家高级对外汉语教师资格证持有者。",
+        "motto":"不忘初心"
+        
+    },
+    
+    {
+        "id": 19,
+        "name": "Yifan Li",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "平面设计师",
+        "introduction":"海报图形设计",
+        "story": "并没有什么丰功伟业",
+        "motto":"less is more"
+        
+    },
+    
+   
+    
+    {   "id":20,
+        "name":"Lipei Lin",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "Engineer",
+        "introduction":"拍视频",
+        "story": "'平凡'这个名词最好的代言人.",
+        "motto":"独善其身，敬爱天下。"
+        
+    },
+    
+    {
+        "id":21,
+        "name":"Hao Wang",
+        "imageLink": "css/images/team/advisors/default-profile.png",
+        "title": "Director of Product",
+        "introduction":"intern項目產品開發",
+        "story": "珠海一中 <br>天津大學環境學院 <br>Diablo Valley College建築系",
+        "motto":"既然目標是地平線 留給世界的只能是背影。"
+    }
+    
+]
