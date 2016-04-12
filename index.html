@@ -43,6 +43,16 @@
         .introductionContainer {
             padding: 70px 20px;
         }
+        ::selection {
+            background: #000;
+            color: white;
+            /* WebKit/Blink Browsers */
+        }
+        ::-moz-selection {
+            background: #000;
+            color: white;
+            /* Gecko Browsers */
+        }
         .helloWord {
             font-weight: 600;
             font-size: 1.7em;
@@ -110,7 +120,7 @@
 
     <div class="container">
         <div class="introductionContainer">
-           <div class="amazingandyyyatcodinghouse" style="float: right">
+            <div class="amazingandyyyatcodinghouse" style="float: right">
                 <div class="fb-like" data-href="https://www.facebook.com/amazingandyyyCH/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
             </div>
             <img src="css/images/logoWithPhoto.png" alt="logo" class="logo">
@@ -181,7 +191,7 @@
                 </script>
                 <!--End mc_embed_signup-->
             </div>
-            
+
             <div class="comment">
                 <div class="fb-comments" data-href="http://amazingandyyy.github.io" data-numposts="5" data-width="100%"></div>
             </div>
