@@ -29,6 +29,7 @@
         <![endif]-->
     <style>
         .container {
+            font-family: helvetica, arial, sans-serif;
             max-width: 800px;
         }
 
@@ -75,25 +76,64 @@
             letter-spacing: 1px;
         }
 
+        .subcription {
+            min-height: 250px;
+        }
+
         .contact {
             text-align: center;
-            font-size: 1.4em;
+            font-size: 1.5em;
         }
 
         .contact p {
-            font-size: 0.4em;
-            margin-bottom: -20px;
+            font-size: 0.5em;
+            margin-bottom: -25px;
             font-weight: 900;
+            padding-top: 10px;
         }
 
         .contact .fa {
             margin: 1px;
             transition: .2s all ease-in-out;
+            padding: 5px;
         }
 
         .contact .fa:hover {
             transform: scale(1.3);
         }
+        /*Change the Default*/
+
+        #mc_embed_signup input {
+            -webkit-border-radius: 0px !important;
+            -moz-border-radius: 0px !important;
+            border-radius: 0px !important;
+            border: 1px solid #d3d6db !important;
+            outline: none !important;
+        }
+
+        #mc_embed_signup input:active,
+        #mc_embed_signup input:focus {
+            border-color: #0077B5 !important;
+        }
+
+        #mc_embed_signup .mc-field-group {
+            width: 99% !important;
+        }
+
+        #mc_embed_signup .button {
+            border-radius: 2px !important;
+            background-color: #4e69a2 !important;
+            border-color: #435a8b #3c5488 #334c83 !important;
+            float: right !important;
+            line-height: 25px !important;
+            opacity: .5;
+            margin-bottom: 100px;
+        }
+
+        #mc_embed_signup .button:hover {
+            opacity: 1;
+        }
+        /*finish*/
 
         @media (max-width: 414px) {
             .logo {
@@ -152,70 +192,74 @@
                 <br>Currently I am taking part in a Javascript Bootcamp - <a href="https://codinghouse.co/#!home" target="_blank">Coding House</a>
 
             </div>
-            <hr>
+            <!-- <hr> -->
             <!-- <div class="instagram">
                 <p>Me and the Macbook Pro</p>
                 <iframe src="http://snapwidget.com/sc/?h=YW1hemluZ2FuZHl5eWNvZGluZ3xpbnwxNTB8M3wzfHxub3w1fG5vbmV8b25TdGFydHx5ZXN8bm8=&ve=110416" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:no; overflow:hidden; width:100%; height:150px"></iframe>
             </div> -->
             <hr>
-            <div class="subcription">
-                <!-- Begin MailChimp Signup Form -->
-                <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-                <style type="text/css">
-                    #mc_embed_signup {
-                        background: #fff;
-                        clear: left;
-                        font: 14px Helvetica, Arial, sans-serif;
-                    }
-                    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-                </style>
-                <div id="mc_embed_signup">
-                    <form action="//amazingandyyy.us13.list-manage.com/subscribe/post?u=c64216aeb2d679589c4f04e6c&amp;id=0bc15b3361" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                        <div id="mc_embed_signup_scroll">
-                            <h2>Subscribe to My mailing list</h2>
-                            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-                            <div class="mc-field-group">
-                                <label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
-                                </label>
-                                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                            </div>
-                            <div class="mc-field-group">
-                                <label for="mce-FNAME">First Name</label>
-                                <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-                            </div>
-                            <div id="mce-responses" class="clear">
-                                <div class="response" id="mce-error-response" style="display:none"></div>
-                                <div class="response" id="mce-success-response" style="display:none"></div>
-                            </div>
-                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                <input type="text" name="b_c64216aeb2d679589c4f04e6c_0bc15b3361" tabindex="-1" value="">
-                            </div>
-                            <div class="clear">
-                                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="subcription">
+                        <!-- Begin MailChimp Signup Form -->
+                        <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+                        <style type="text/css">
+                            #mc_embed_signup {
+                                background: #fff;
+                                clear: left;
+                                font: 14px Helvetica, Arial, sans-serif;
+                            }
+                            /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+  	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                        </style>
+                        <div id="mc_embed_signup">
+                            <form action="//amazingandyyy.us13.list-manage.com/subscribe/post?u=c64216aeb2d679589c4f04e6c&amp;id=0bc15b3361" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                <div id="mc_embed_signup_scroll">
+                                    <h2>Subscribe to My mailing list</h2>
+                                    <div class="mc-field-group">
+
+                                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="example@email.com">
+                                    </div>
+                                    <div class="mc-field-group">
+
+                                        <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
+                                    </div>
+                                    <div id="mce-responses" class="clear">
+                                        <div class="response" id="mce-success-response" style="display:none"></div>
+                                    </div>
+                                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                        <input type="text" name="b_c64216aeb2d679589c4f04e6c_0bc15b3361" tabindex="-1" value="">
+                                    </div>
+                                    <div class="clear">
+                                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                                    </div>
+                                </div>
+                            </form>
                         </div>
-                    </form>
+                        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+                        <script type='text/javascript'>
+                            (function($) {
+                                window.fnames = new Array();
+                                window.ftypes = new Array();
+                                fnames[0] = 'EMAIL';
+                                ftypes[0] = 'email';
+                                fnames[1] = 'FNAME';
+                                ftypes[1] = 'text';
+                            }(jQuery));
+                            var $mcj = jQuery.noConflict(true);
+                        </script>
+                        <!--End mc_embed_signup-->
+                    </div>
                 </div>
-                <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-                <script type='text/javascript'>
-                    (function($) {
-                        window.fnames = new Array();
-                        window.ftypes = new Array();
-                        fnames[0] = 'EMAIL';
-                        ftypes[0] = 'email';
-                        fnames[1] = 'FNAME';
-                        ftypes[1] = 'text';
-                    }(jQuery));
-                    var $mcj = jQuery.noConflict(true);
-                </script>
-                <!--End mc_embed_signup-->
+                <div class="col-sm-6">
+                    <div class="comment">
+                        <div class="fb-comments" data-href="http://amazingandyyy.github.io" data-numposts="5" data-width="100%"></div>
+                    </div>
+                </div>
             </div>
 
-            <div class="comment">
-                <div class="fb-comments" data-href="http://amazingandyyy.github.io" data-numposts="5" data-width="100%"></div>
-            </div>
+
             <div class="contact">
                 <p>Feel free to contact me.</p>
                 <br>
