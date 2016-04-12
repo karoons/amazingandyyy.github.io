@@ -164,6 +164,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
     <!-- Firebase JS -->
     <script src="https://cdn.firebase.com/js/client/2.3.2/firebase.js"></script>
+    <!-- MailChimp Signup Form CSS-->
+    <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
 
 
 
@@ -199,15 +202,15 @@
             </div> -->
             <hr>
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-12">
                     <div class="subcription">
-                        <!-- Begin MailChimp Signup Form -->
-                        <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
                         <style type="text/css">
                             #mc_embed_signup {
-                                background: #fff;
                                 clear: left;
                                 font: 14px Helvetica, Arial, sans-serif;
+                                height: 240px;
+                                padding: 10px 50px;
+                                border-radius: 5px;
                             }
                             /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
   	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
@@ -215,7 +218,7 @@
                         <div id="mc_embed_signup">
                             <form action="//amazingandyyy.us13.list-manage.com/subscribe/post?u=c64216aeb2d679589c4f04e6c&amp;id=0bc15b3361" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                 <div id="mc_embed_signup_scroll">
-                                    <h2>Subscribe to My mailing list</h2>
+                                    <h2>Subscribe to My Weekly Updates</h2>
                                     <div class="mc-field-group">
 
                                         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="example@email.com">
@@ -237,26 +240,14 @@
                                 </div>
                             </form>
                         </div>
-                        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-                        <script type='text/javascript'>
-                            (function($) {
-                                window.fnames = new Array();
-                                window.ftypes = new Array();
-                                fnames[0] = 'EMAIL';
-                                ftypes[0] = 'email';
-                                fnames[1] = 'FNAME';
-                                ftypes[1] = 'text';
-                            }(jQuery));
-                            var $mcj = jQuery.noConflict(true);
-                        </script>
                         <!--End mc_embed_signup-->
                     </div>
                 </div>
-                <div class="col-sm-6">
+                <!-- <div class="col-sm-6">
                     <div class="comment">
                         <div class="fb-comments" data-href="http://amazingandyyy.github.io" data-numposts="5" data-width="100%"></div>
                     </div>
-                </div>
+                </div> -->
             </div>
 
 
@@ -270,7 +261,34 @@
         </div>
     </div>
 
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script type='text/javascript'>
+        (function($) {
+            window.fnames = new Array();
+            window.ftypes = new Array();
+            fnames[0] = 'EMAIL';
+            ftypes[0] = 'email';
+            fnames[1] = 'FNAME';
+            ftypes[1] = 'text';
+        }(jQuery));
+        var $mcj = jQuery.noConflict(true);
+        $(document).ready(function() {
+            var randomColorList = [];
+            for (i = 0; i < 4; i++) {
+                var c = Math.random() * 10
+                if (c > 5) {
+                    randomColorList.push('f');
+                } else {
+                    randomColorList.push('e');
+                    console.log(c);
+                }
+            }
+            var randomColor = "#" + randomColorList.join('');
 
+            $('#mc_embed_signup').css('background-color', randomColor);
+
+        })
+    </script>
 
 </body>
 
