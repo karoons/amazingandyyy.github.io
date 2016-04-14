@@ -102,6 +102,13 @@
             transform: scale(1.3);
         }
         /*Change the Default*/
+        #mc_embed_signup {
+            clear: left;
+            font: 14px Helvetica, Arial, sans-serif;
+            height: 270px;
+            padding: 10px 50px;
+            border-radius: 5px;
+        }
 
         #mc_embed_signup input {
             -webkit-border-radius: 0px !important;
@@ -135,9 +142,18 @@
         }
         /*finish*/
 
-        @media (max-width: 414px) {
+
+        @media (max-width: 600px) {
             .logo {
                 margin-top: 40px;
+            }
+            #mc_embed_signup {
+                clear: left;
+                font: 14px Helvetica, Arial, sans-serif;
+                height: 290px;
+                width: 100%;
+                padding: 10px 20px;
+                border-radius: 5px;
             }
         }
     </style>
@@ -204,24 +220,14 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="subcription">
-                        <style type="text/css">
-                            #mc_embed_signup {
-                                clear: left;
-                                font: 14px Helvetica, Arial, sans-serif;
-                                height: 240px;
-                                padding: 10px 50px;
-                                border-radius: 5px;
-                            }
-                            /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-  	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-                        </style>
+
                         <div id="mc_embed_signup">
                             <form action="//amazingandyyy.us13.list-manage.com/subscribe/post?u=c64216aeb2d679589c4f04e6c&amp;id=0bc15b3361" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                 <div id="mc_embed_signup_scroll">
                                     <h2>Subscribe to My Weekly Updates</h2>
                                     <div class="mc-field-group">
 
-                                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="example@email.com">
+                                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="example@email.com" required>
                                     </div>
                                     <div class="mc-field-group">
 
@@ -235,7 +241,7 @@
                                         <input type="text" name="b_c64216aeb2d679589c4f04e6c_0bc15b3361" tabindex="-1" value="">
                                     </div>
                                     <div class="clear">
-                                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="cursor: pointer !important;">
                                     </div>
                                 </div>
                             </form>
@@ -250,7 +256,7 @@
                 </div> -->
                 <div class="col-sm-12">
                     <div class="DQcomment">
-                        <div id="disqus_thread"></div>
+                        <div id="disqus_thread" style="margin-top: 50px;"></div>
                         <script>
                             /**
                              *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
